@@ -1,7 +1,5 @@
 from enum import Enum
-
 import sqlalchemy as sa
-
 from src.database import metadata
 
 
